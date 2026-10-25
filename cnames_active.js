@@ -1174,6 +1174,7 @@ var cnames_active = {
   "filer": "filerjs.github.io/filer",
   "fill100": "matteobruni.github.io/fill100",
   "filter": "mg98.github.io/filter.js",
+  "finalround": "mezdefjam2014.github.io/Final-Round",
   "finance": "financejs.github.io/finance.js",
   "financial": "financialjsorg.netlify.app",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
